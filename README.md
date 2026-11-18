@@ -7,14 +7,23 @@ Garaż w telefonie. Historia auta zwykle jest rozrzucona po paragonach, notatkac
   <img src="img/serwis.png" width="380" alt="Serwis i koszty">
 </p>
 
-Co umie:
+## funkcje
 
-- serwis z przypomnieniami (po kilometrach albo po czasie, co jest pierwsze)
-- wydatki i przebieg
-- trasy i modyfikacje auta
-- dodawanie auta po numerze VIN (marka, rocznik, silnik same się uzupełniają)
-- asystent, który odpowiada na pytania w kontekście konkretnego auta i jego historii
-- ranking kierowców i mapa warsztatów
+- ekran "dzisiaj" - auto, przebieg, ocena stanu auta od 0 do 100 z wyjaśnieniem, co ją obniża, najbliższy serwis i średni koszt miesięczny
+- porady pod konkretne auto - krótkie wskazówki dopasowane do silnika i przebiegu
+- garaż - kilka aut na jednym koncie i szybkie przełączanie między nimi
+- dodawanie auta - krok po kroku (model, silnik, przebieg, kolor) albo z numeru VIN
+- przebieg - historia wpisów z licznika
+- plan serwisowy - zadania z interwałem w kilometrach albo w czasie, historia serwisów, oznaczanie jako zrobione i przypomnienia
+- wydatki - wszystkie koszty auta i średnia miesięczna
+- trasy - planowanie i zapisywanie tras
+- modyfikacje - lista przeróbek, cele i kolejne etapy projektu auta
+- kreacje AI - generowanie obrazków twojego auta
+- asystent AI - pytasz o swoje auto, a on odpowiada, znając jego historię
+- warsztaty - wyszukiwanie serwisów w okolicy
+- ranking - porównanie z innymi kierowcami
+- tryb demo z przykładowym autem, żeby obejrzeć apkę bez wpisywania danych
+- logowanie kodem z maila, bez hasła
 
 ## przypomnienia
 
