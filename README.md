@@ -2,6 +2,11 @@
 
 Garaż w telefonie. Historia auta zwykle jest rozrzucona po paragonach, notatkach i pamięci, a o wymianie oleju przypomina się dopiero kontrolka. Tu wszystko jest w jednym miejscu.
 
+<p>
+  <img src="img/auto.png" width="380" alt="Ekran główny z autem">
+  <img src="img/serwis.png" width="380" alt="Serwis i koszty">
+</p>
+
 Co umie:
 
 - serwis z przypomnieniami (po kilometrach albo po czasie, co jest pierwsze)
